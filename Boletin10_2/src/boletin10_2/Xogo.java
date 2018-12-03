@@ -34,7 +34,6 @@ public class Xogo {
                 JOptionPane.showMessageDialog(null, "Lonxe");
             } else if (Math.abs(numAdivinar - num1) > 20) {
                 JOptionPane.showMessageDialog(null, "Moi lonxe");
-            } else if (numAdivinar == num1) {
             }
         }
     }
